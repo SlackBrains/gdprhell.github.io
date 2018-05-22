@@ -6,25 +6,8 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 ### Information Collection and Use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+```
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
 
@@ -32,8 +15,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-- [Google Play Services](https://www.google.com/policies/privacy/)
-- [appodeal](https://www.appodeal.com/privacy-policy/)
+*[Google Play Services](https://www.google.com/policies/privacy/)
+*[appodeal](https://www.appodeal.com/privacy-policy/)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
