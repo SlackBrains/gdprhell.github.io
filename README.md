@@ -16,10 +16,9 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app:
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
-- [Appodeal](https://www.appodeal.com/privacy-policy/) :
+- [Appodeal](https://www.appodeal.com/privacy-policy/) to supply persanalized ads collects :
 
-```
- To supply persanalized ads Appodeal 
+``` 
  Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
  
  We also collect app data, such as Bundle ID, store URL, session length, session ID.
