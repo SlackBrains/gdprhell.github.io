@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 DEVELOPER built the FUCK_APP app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
