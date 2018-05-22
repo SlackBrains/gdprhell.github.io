@@ -17,17 +17,11 @@ Link to privacy policy of third party service providers used by the app:
 - [Appodeal](https://www.appodeal.com/privacy-policy/):
 
 ```
-
  Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
-
  We also collect app data, such as Bundle ID, store URL, session length, session ID.
-
  Ad data: impression count per session, click count, finish count, total impression count.
-
  User data (only when it’s passed by the publisher): gender, age, relationship status, interests.
- 
 ```
-
 
 ### Jekyll Themes
 
