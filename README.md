@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-built the FUCK_APP app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+DEVELOPER built the FUCK_APP app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -11,16 +11,23 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app
-
-
+Link to privacy policy of third party service providers used by the app:
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
-- [appodeal](https://www.appodeal.com/privacy-policy/)
+- [Appodeal](https://www.appodeal.com/privacy-policy/):
 
+```
 
+ Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ We also collect app data, such as Bundle ID, store URL, session length, session ID.
+
+ Ad data: impression count per session, click count, finish count, total impression count.
+
+ User data (only when it’s passed by the publisher): gender, age, relationship status, interests.
+ 
+```
+
 
 ### Jekyll Themes
 
