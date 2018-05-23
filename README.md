@@ -2,31 +2,61 @@
 
 DEVELOPER built the FUCK_APP app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+
+
+
+
 
 ### Information Collection and Use
 
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way.
-
-We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application low or even free. 
-
-The app does use third party services that may collect information used to identify you.
+The app uses advertising to make revenue. The app uses third party
+libraries for advertising which may collect and share personal information with third
+parties.
 
 Link to privacy policy of third party service providers used by the app:
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
-- [Appodeal](https://www.appodeal.com/privacy-policy/) to supply persanalized ads collects :
 
-``` 
- Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
- 
- We also collect app data, such as Bundle ID, store URL, session length, session ID.
- 
- Ad data: impression count per session, click count, finish count, total impression count.
- 
- User data (only when it’s passed by the publisher): gender, age, relationship status, interests.
-```
+Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Unique application numbers
+* Local storage
+* Cookies and similar technologies
+
+Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+- [Appodeal](https://www.appodeal.com/privacy-policy/) to personalizes your advertising experience collects:
+
+* Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
+* We also collect app data, such as Bundle ID, store URL, session length, session ID.
+* Ad data: impression count per session, click count, finish count, total impression count.
+* User data (only when it’s passed by the publisher): gender, age, relationship status, interests.
+
+
+### Sharing Your Information
+
+The developer will share personal information with third parties only in the ways that are 
+described in this privacy statement.
+
+Your personal information may be disclosed:
+* As required by law, such as to comply with a subpoena, or similar legal process.
+* To any other third party with your prior consent to do so.
+
 
 
 ### Log Data
@@ -58,8 +88,12 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
+These Services do not address anyone under the age of 16. I do not knowingly collect 
+personally identifiable information from children under 16. In the case I discover that 
+a child under 16 has provided me with personal information, I immediately delete those 
+informations. If you are a parent or guardian and you are aware that your child has
+provided personal information, please contact me so that I will be able to do necessary
+actions.
 
 
 ### Changes to This Privacy Policy
