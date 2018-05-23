@@ -18,7 +18,7 @@ The app uses advertising to make revenue. The app uses third party
 libraries for advertising which may collect and share personal information with third
 parties.
 
-#### Google Play Services
+### Google Play Services
 Google Play Services offers APIs and security services to the Android developer ecosystem.
 Google acts as a data controller for any personal data processed in Google Play Services,
 and offers user notices and consents about the use of personal data in the service’s user
@@ -37,7 +37,7 @@ services, to develop new ones, and to protect Google and the users. Google also 
 information to offer you tailored content – like giving you more relevant search results
 and ads.
 
-#### Appodeal 
+### Appodeal 
 To personalizes your advertising experience collects:
 * Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
 * We also collect app data, such as Bundle ID, store URL, session length, session ID.
