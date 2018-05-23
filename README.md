@@ -20,7 +20,7 @@ parties.
 
 Link to privacy policy of third party service providers used by the app:
 
-- [Google Play Services](https://www.google.com/policies/privacy/)
+### [Google Play Services](https://www.google.com/policies/privacy/)
 
 Google Play Services offers APIs and security services to the Android developer ecosystem.
 Google acts as a data controller for any personal data processed in Google Play Services,
@@ -40,7 +40,7 @@ services, to develop new ones, and to protect Google and the users. Google also 
 information to offer you tailored content – like giving you more relevant search results
 and ads.
 
-- [Appodeal](https://www.appodeal.com/privacy-policy/) to personalizes your advertising experience collects:
+### [Appodeal](https://www.appodeal.com/privacy-policy/) to personalizes your advertising experience collects:
 
 * Device data — such as screen size, IP address, location (latitude and longitude), battery charge level, time zone, etc.
 * We also collect app data, such as Bundle ID, store URL, session length, session ID.
